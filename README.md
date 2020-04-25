@@ -56,6 +56,10 @@ I am a third year student of computer science on a specialization "Databases and
 * [thetesteye.com](http://thetesteye.com/blog)
 * [satisfice.com](https://www.satisfice.com/blog)
 
+## Webinars and meetups
+
+* TBC
+
 ## My Test Documentation
 
 * Bug Reports
