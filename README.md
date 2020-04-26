@@ -12,6 +12,7 @@ I am a third year student of computer science on a specialization "Databases and
 
 ## Tech Stack
 
+* "IT technician" diploma
 * Databases: MS SQL, Oracle Database, PL/SQL
 * Languages: Python3
 * Testing: Postman
