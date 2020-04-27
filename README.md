@@ -59,7 +59,7 @@ I am a third year student of computer science on a specialization "Databases and
 
 ## Webinars and meetups
 
-* TBC
+* Testowanie REST API (testerprogramuje.pl) - 27/04/20
 
 ## My Test Documentation
 
