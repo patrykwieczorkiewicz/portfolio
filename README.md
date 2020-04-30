@@ -21,7 +21,7 @@ I am a third year student of computer science on a specialization "Databases and
 
 ## Courses 
 
-* How Git Works ***(in progress)***
+* How Git Works 
 * Technical Support Fundamentals by Google ***(in progress)***
 
 ## Technical Books read
