@@ -30,8 +30,8 @@ I am a third year student of computer science on a specialization "Databases and
 
 ## Technical Books read
 
-* [Linux Mint. Podstawy](https://helion.pl/ksiazki/linux-mint-podstawy-jay-lacroix,linmin.htm#format/e)
 * [Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
+* [Linux Mint. Podstawy](https://helion.pl/ksiazki/linux-mint-podstawy-jay-lacroix,linmin.htm#format/e) ***(in progress)***
 * [Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania](https://ksiegarnia.pwn.pl/Tester-oprogramowania-Przygotowanie-do-egzaminu-z-testowania-oprogramowania,84913544,p.html?abpid=11&abpcid=132&bb_id=3&bb_coid=5264186&abpar1=desktop&abpar2=275403.1746781.&p_action=3206410001&utm_source=a4b&utm_medium=referral&utm_campaign=lc-buybox-wszystkie&_ga=NC.2843809135-1587824507) ***(in progress)***
 * [Podstawy języka T-SQL. Microsoft SQL Server 2016 i Azure SQL Database](https://helion.pl/ksiazki/podstawy-jezyka-t-sql-microsoft-sql-server-2016-i-azure-sql-database-ben-gan-itzik,a_03it.htm) ***(in progress)***
 * [Python dla każdego. Podstawy programowania](https://helion.pl/ksiazki/python-dla-kazdego-podstawy-programowania-wydanie-iii-michael-dawson,pytdk3.htm#format/d) ***(in progress)***
