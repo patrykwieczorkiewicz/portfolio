@@ -27,7 +27,6 @@ I am a third year student of computer science on a specialization "Databases and
 * Oracle Database 12c Fundamentals (by Tim Warner) ***(in plans)***
 * Jira: Getting Started (by Jim Weaver) ***(in plans)***
 
-
 ## Technical Books read
 
 * [Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
@@ -65,6 +64,7 @@ I am a third year student of computer science on a specialization "Databases and
 ## Webinars and meetups
 
 * Testowanie REST API (testerprogramuje.pl) - 27/04/20
+* The Basics: Getting started with Selenium (browserstack.com) - 01/05/20
 
 ## My Test Documentation
 
