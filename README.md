@@ -58,14 +58,13 @@ I am a third year student of computer science on a specialization "Databases and
 * [sekurak.pl](https://sekurak.pl)
 * [niebezpiecznik.pl](https://niebezpiecznik.pl)
 * [zaufanatrzeciastrona.pl](https://zaufanatrzeciastrona.pl)
-* [thetesteye.com](http://thetesteye.com/blog)
-* [satisfice.com](https://www.satisfice.com/blog)
 
 ## Webinars and meetups
 
 * Testowanie REST API (testerprogramuje.pl) - 27/04/20
 * The Basics: Getting started with Selenium (browserstack.com) - 01/05/20
 * Testerskimi ścieżkami z Dominikiem Gromadzkim (testuj.pl) - 13/05/20
+* Powtórka z podstaw? Czyli czemu warto pamiętać jak zaczynaliśmy (QArantanna) - 19/05/20
 
 ## My Test Documentation
 
