@@ -64,6 +64,7 @@ I am a third year student of computer science on a specialization "Databases and
 * The Basics: Getting started with Selenium (browserstack.com) - 01/05/20
 * Testerskimi ścieżkami z Dominikiem Gromadzkim (testuj.pl) - 13/05/20
 * Powtórka z podstaw? Czyli czemu warto pamiętać jak zaczynaliśmy (QArantanna) - 19/05/20
+* Bezpieczeństwo API, od Postmana do Hackowania (QArantanna) - 26/05/20
 
 ## My Test Documentation
 
